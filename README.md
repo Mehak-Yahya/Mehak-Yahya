@@ -28,8 +28,31 @@ While my primary focus is web development, I also have experience with Machine L
 - Continuously learning modern frameworks and technologies
 - Open to collaboration on web development projects
 ---
+# 💼 Experience
 
-# 🚀 Featured Projects
+## MERN Stack Intern  
+**10Pearls (Pvt.) Ltd.**  
+**Sep 2025 – Nov 2025**
+
+- Developed a full-stack **Notes Web Application** using the MERN stack (MongoDB, Express.js, React, Node.js)
+- Implemented **user authentication and authorization** for secure access control
+- Built backend APIs for creating, updating, deleting, and managing notes
+- Added **logging mechanisms** for system monitoring and debugging
+- Performed **unit testing using Mocha and Jest** to ensure application reliability and functionality
+- Worked in an Agile environment and followed clean code practices and Git version control
+
+---
+
+## Full Stack Web Development Training  
+**GeeksforGeeks**  
+**Mar 2022 – Jan 2026**
+
+- Completed hands-on training in **Full-Stack Web Development using MERN stack**
+- Built multiple practical projects covering frontend, backend, and database integration
+- Strengthened understanding of **REST APIs, authentication, and database design**
+- Gained experience in real-world project structure and deployment workflow
+---
+# Featured Projects
 
 ## Vogue AI – Next Gen Fashion Stylist
 **Stack:** Flutter | Node.js | Python | Machine Learning | OpenCV | NLP
@@ -69,38 +92,28 @@ While my primary focus is web development, I also have experience with Machine L
 
 # 💻 Tech Stack
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Databases
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Mehak-Yahya&show_icons=true&theme=tokyonight)
