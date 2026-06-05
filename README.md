@@ -3,7 +3,7 @@
 
 # Hi, I'm Mehak
 
-### Computer Science Graduate | Full-Stack Developer | Machine Learning Enthusiast
+### Computer Science Graduate (Bahria University, Lahore Campus) | Full-Stack Developer | Machine Learning Enthusiast
 
 Building web applications and AI-powered solutions that solve real-world problems.
 
